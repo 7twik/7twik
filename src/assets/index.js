@@ -9,7 +9,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import iq from "./iq.jpeg";
 import digitalOcean from "./digitalOcean.png";
-import solidity from "./solidity.svg";
+import solidity from "./Solidity.svg";
 import blockchain from "./blockchain.png";
 import vercel from "./vercel.png";
 import css from "./tech/css.png";
