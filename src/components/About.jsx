@@ -87,12 +87,13 @@ const particlesLoaded = useCallback(async container => {
                 particles: {
                     color: {
                         value: "#A5D7E8",
+                        opacity: 0.3,
                     },
                     links: {
                         color: "#576CBC",
                         distance: 150,
                         enable: true,
-                        opacity: 0.5,
+                        opacity: 0.3,
                         width: 1,
                     },
                     collisions: {
@@ -123,7 +124,7 @@ const particlesLoaded = useCallback(async container => {
                     },
                     size: {
                       random:true,
-                        value: { min: 4, max: 15 },
+                        value: { min: 2, max: 10 },
                     },
                 },
                 detectRetina: true,
