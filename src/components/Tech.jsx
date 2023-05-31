@@ -37,9 +37,17 @@ const Tech = () => {
   return (
     <div className='flex flex-row flex-wrap justify-center gap-10'>
       {technologies.map((technology) => (
+        
         <div className='w-38 h-38' key={technology.name}>
+          <motion.div
+        className="container"
+        whileHover={{ scale: 1.2, rotate: 360 }}
+        whileTap={{ scale: 0.8, rotate: -360, borderRadius: "100%" }}
+      >
           <ServiceCard key={technology.name} title={technology.name} icon={technology.icon} />
+          </motion.div>
         </div>
+        
       ))}
     </div>
   );
