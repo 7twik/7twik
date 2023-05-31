@@ -96,7 +96,7 @@ const particlesLoaded = useCallback(async container => {
                         width: 1,
                     },
                     collisions: {
-                        enable: true,
+                        enable: false,
                     },
                     move: {
                         direction: "none",
@@ -122,7 +122,8 @@ const particlesLoaded = useCallback(async container => {
                         type: "triangle"
                     },
                     size: {
-                        value: { min: 4, max: 5 },
+                      random:true,
+                        value: { min: 4, max: 15 },
                     },
                 },
                 detectRetina: true,
