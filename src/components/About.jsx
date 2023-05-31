@@ -61,7 +61,7 @@ const particlesLoaded = useCallback(async container => {
             init={particlesInit}
             loaded={particlesLoaded}
             options={{
-                fpsLimit: 120,
+                fpsLimit: 620,
                 interactivity: {
                     events: {
                         onClick: {
@@ -86,10 +86,10 @@ const particlesLoaded = useCallback(async container => {
                 },
                 particles: {
                     color: {
-                        value: "#A459D1",
+                        value: "#A5D7E8",
                     },
                     links: {
-                        color: "#FFB84C",
+                        color: "#576CBC",
                         distance: 150,
                         enable: true,
                         opacity: 0.5,
@@ -105,7 +105,7 @@ const particlesLoaded = useCallback(async container => {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 6,
+                        speed: 2,
                         straight: false,
                     },
                     number: {
@@ -113,16 +113,16 @@ const particlesLoaded = useCallback(async container => {
                             enable: true,
                             area: 800,
                         },
-                        value: 80,
+                        value: 180,
                     },
                     opacity: {
                         value: 0.5,
                     },
                     shape: {
-                        type: "circle",
+                        type: "triangle"
                     },
                     size: {
-                        value: { min: 1, max: 5 },
+                        value: { min: 4, max: 5 },
                     },
                 },
                 detectRetina: true,
