@@ -1,10 +1,6 @@
-![logo]("https://media.licdn.com/dms/image/D4D16AQHiOe5yCiR8tQ/profile-displaybackgroundimage-shrink_350_1400/0/1679223365600?e=1701302400&v=beta&t=dJ-bqpRrW2wftSPGiBQc3Vy4I4I6OzuNi19uvV50-N0")
+![logo](https://res.cloudinary.com/dcyfkgtgv/image/upload/v1696113041/Screenshot_2023-10-01_035850_mossmv.png)
 <h1 align="center">Hi 👋, I'm Sattwik Das</h1>
-<h3 align="center">Full-Stack and Blockchain Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7twik&label=Profile%20views&color=0e75b6&style=flat" alt="7twik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7twik" alt="7twik" /></a> </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [eVendor](https://github.com/7twik/eVendor)
 
@@ -18,6 +14,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view?utm_content=DAFWOkrNC2o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view?utm_content=DAFWOkrNC2o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+- ⚡ Fun fact **I think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
