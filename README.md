@@ -1,5 +1,6 @@
+![logo]("https://media.licdn.com/dms/image/D4D16AQHiOe5yCiR8tQ/profile-displaybackgroundimage-shrink_350_1400/0/1679223365600?e=1701302400&v=beta&t=dJ-bqpRrW2wftSPGiBQc3Vy4I4I6OzuNi19uvV50-N0")
 <h1 align="center">Hi 👋, I'm Sattwik Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack and Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7twik&label=Profile%20views&color=0e75b6&style=flat" alt="7twik" /> </p>
 
@@ -17,7 +18,6 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view?utm_content=DAFWOkrNC2o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view?utm_content=DAFWOkrNC2o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
