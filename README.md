@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [eVendor](https://github.com/7twik/eVendor)
 
-- 🌱 I’m currently learning **DevOps and Cloud Computing**
+- 🌱 I’m currently learning **Crypto Protocols, DevOps and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://7twik-git-main-7twik.vercel.app/](https://7twik-git-main-7twik.vercel.app/)
 
