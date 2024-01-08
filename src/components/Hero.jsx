@@ -37,7 +37,9 @@ const Hero = () => {
       {/* <div className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]">
       <EarthCanvas /></div> */}
       <div className="outalt">
-      <div className="compalt"><img className="dp" src="https://i.gifer.com/1VB6.gif" alt="nf" /> </div></div>
+      <div className="compalt">
+        <img className="dp" src="https://i.gifer.com/1VB6.gif" alt="nf" />
+         </div></div>
       {/* <ComputersCanvas /> */}
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>

@@ -38,6 +38,28 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import mydp from "./mpdp.png";
 import dp3 from "./dp3.png";
+import chingari from "./chingari.png";
+import chemcon from "./chemcon.png";
+import gdsc from "./gdsc.jpeg";
+import open from "./open.jpeg";
+import golocal from "./golocal.png";
+import sevens from "./sevens.png";
+import webspire from "./webspire.png";
+import manage from "./manage.png";
+import admin from "./admin.png";
+import holopin from "./holopin.png";
+import h4b from "./h4b.jpeg";
+import aaro from "./aaro.jpeg";
+import hh from "./hh.jpeg";
+
+  chemcon,
+  gdsc,
+  open,
+  golocal,
+  sevens,
+  webspire,
+  manage,
+  admin
 export {
   dp3,
   mydp,
@@ -79,4 +101,17 @@ export {
   bitapods,
   hawkershut,
   tripguide,
+  chingari,
+  chemcon,
+  gdsc,
+  open,
+  golocal,
+  sevens,
+  webspire,
+  manage,
+  admin,
+  holopin,
+  h4b,
+  aaro,
+  hh
 };

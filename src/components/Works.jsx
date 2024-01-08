@@ -93,8 +93,16 @@ const Works = () => {
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
       </div>
+      <motion.div variants={textVariant()} style={{marginTop:"20vh", marginBottom:"-15vh"}}>
+        <p className={`${styles.sectionSubText} text-center`}>
+          What I have done so far
+        </p>
+        <h2 className={`${styles.sectionHeadText} text-center`}>
+          Achievements
+        </h2>
+      </motion.div>
     </>
   );
 };
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "work");

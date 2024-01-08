@@ -8,11 +8,11 @@ import { motion } from "framer-motion";
 import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";
-import { experiences } from "../constants";
+import { achieve } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
-const ExperienceCard = ({ experience }) => {
+const AchieveCard = ({ achieve }) => {
   return (
     <VerticalTimelineElement
       contentStyle={{
@@ -20,32 +20,32 @@ const ExperienceCard = ({ experience }) => {
         color: "#fff",
       }}
       contentArrowStyle={{ borderRight: "7px solid  #232631" }}
-      date={experience.date}
-      iconStyle={{ background: experience.iconBg }}
+      date={achieve.date}
+      iconStyle={{ background: achieve.iconBg }}
       icon={
         <div className='flex justify-center items-center w-full h-full'>
           <img
-            src={experience.icon}
-            alt={experience.company_name}
+            src={achieve.icon}
+            alt={achieve.company_name}
             className='w-[60%] h-[60%] object-contain'
           />
         </div>
       }
     >
       <div>
-        <h3 className='text-white text-[24px] font-bold'>{experience.title}</h3>
+        <h3 className='text-white text-[24px] font-bold'>{achieve.title}</h3>
         <p
           className='text-secondary text-[16px] font-semibold'
           style={{ margin: 0 }}
         >
-          {experience.company_name}
+          {achieve.company_name}
         </p>
       </div>
 
       <ul className='mt-5 list-disc ml-5 space-y-2'>
-        {experience.points.map((point, index) => (
+        {achieve.points.map((point, index) => (
           <li
-            key={`experience-point-${index}`}
+            key={`achieve-point-${index}`}
             className='text-white-100 text-[14px] pl-1 tracking-wider'
           >
             {point}
@@ -56,36 +56,23 @@ const ExperienceCard = ({ experience }) => {
   );
 };
 
-const Experience = () => {
+const Achieve = () => {
   return (
-    <div id="experience">
-      <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
-        </p>
-        <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
-        </h2>
-      </motion.div>
+    <div id="achievements">
+      
 
       <div className='mt-20 flex flex-col'>
         <VerticalTimeline>
-          {experiences.map((experience, index) => (
-            <ExperienceCard
-              key={`experience-${index}`}
-              experience={experience}
+          {achieve.map((achieve, index) => (
+            <AchieveCard
+              key={`achieve-${index}`}
+              achieve={achieve}
             />
           ))}
         </VerticalTimeline>
       </div>
-      <motion.div style={{marginTop:"10vh",marginBottom:"-15vh"}}>
-        
-        <h2 className={`${styles.sectionHeadText} text-center`}>
-          Technical skills
-        </h2>
-      </motion.div>
     </div>
   );
 };
 
-export default SectionWrapper(Experience);
+export default SectionWrapper(Achieve, "");
