@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7twik&" alt="7twik" /></p>
 
 
-[![An image of @07twik's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@7twik)](https://www.holopin.io/@7twik)
+![logo](https://res.cloudinary.com/dcyfkgtgv/image/upload/v1704733941/Screenshot_2024-01-08_224119_sw4la4.png)
