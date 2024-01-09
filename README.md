@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7twik&show_icons=true&locale=en" alt="7twik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7twik&" alt="7twik" /></p>
-![logo](https://res.cloudinary.com/dcyfkgtgv/image/upload/v1704733941/Screenshot_2024-01-08_224119_sw4la4.png)
+<p><img align="center" src="https://res.cloudinary.com/dcyfkgtgv/image/upload/v1704733941/Screenshot_2024-01-08_224119_sw4la4.png" alt="7twik" /></p>
