@@ -39,6 +39,19 @@ body{
     #000000
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.blue-gradient {
+  background: #2c2aa7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #42092d,
+    #15f7f3
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #5e0d1f,
+    #06abe2
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
 .violet-gradient {
   background: #804dee;

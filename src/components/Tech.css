@@ -11,3 +11,6 @@ backdrop-filter: blur(20px);
 border: 1px 50% solid rgba(0, 0, 0, 1); */
 background: -webkit-linear-gradient(-90.13deg, #171f62 1.9%, #bf61ff 97.5%);
 }
+.onhove:hover{
+    background: -webkit-linear-gradient(-90.13deg, #171f62 1.9%, #bf61ff 97.5%);
+}

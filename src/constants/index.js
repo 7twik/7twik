@@ -40,6 +40,9 @@ import {
   h4b,
   hh,
   aaro,
+  webspire,
+  sevens,
+  chingari,
 } from "../assets";
 
 export const navLinks = [
@@ -298,7 +301,8 @@ const projects = [
       },
     ],
     image: trackersy,
-    source_code_link: "https://trackersyv1.onrender.com",
+    link: "https://trackersyv1.onrender.com",
+    git:"https://github.com/7twik/trackersy_front"
   },
   {
     name: "Go Local",
@@ -331,7 +335,8 @@ const projects = [
       },
     ],
     image: hawkershut,
-    source_code_link: "https://evendorl.onrender.com/",
+    link: "https://evendorl.onrender.com/",
+    git: "https://github.com/7twik/eVendor"
   },
   {
     name: "Chingari clone",
@@ -371,8 +376,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: trackersy,
-    source_code_link: "https://trackersyv1.onrender.com",
+    image: chingari,
+    link: "https://ornate-cucurucho-e3a525.netlify.app/",
+    git: "https://github.com/7twik/ChingariClone"
   },
   {
     name: "7's Drive",
@@ -412,8 +418,51 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: trackersy,
-    source_code_link: "https://trackersyv1.onrender.com",
+    image: sevens,
+    link: "https://ornate-cucurucho-e3a525.netlify.app/",
+    git: "https://github.com/7twik/7s-Drive"
+  },
+  {
+    name: "Webspire",
+    description:
+      "Social website",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "AUTH0",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Solidity",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "express",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Pinata",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "truffle",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "web3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: webspire,
+    link: "https://webspire.onrender.com/",
+    git:"https://github.com/7twik/WebspireFrontend"
   },
   {
     name: "Chemcon2023 portal",
@@ -442,7 +491,8 @@ const projects = [
       },
     ],
     image: chemcon,
-    source_code_link: "https://chemcon.co.in",
+    link: "https://chemcon.co.in",
+    git: "https://github.com/7twik/ChemconBackend"
   },
   {
     name: "Managewise clone",
@@ -463,7 +513,8 @@ const projects = [
       },
     ],
     image: manage,
-    source_code_link: "https://managewise.onrender.com",
+    link: "https://managewise.onrender.com",
+    git:"https://github.com/7twik/ManageWiseClone"
   },
   {
     name: "Admin Dashboard",
@@ -484,7 +535,8 @@ const projects = [
       },
     ],
     image: admin,
-    source_code_link: "https://adminhq.onrender.com",
+    link: "https://adminhq.onrender.com",
+    git: "https://github.com/7twik/adminHQ"
   },
   {
     name: "47Bita Pods",
@@ -505,7 +557,8 @@ const projects = [
       },
     ],
     image: bitapods,
-    source_code_link: "https://github.com/7twik",
+    link: "https://github.com/7twik",
+    git: "https://github.com/7twik/47BitaPodsv2.0"
   },
 ];
 
