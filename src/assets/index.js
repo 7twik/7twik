@@ -49,9 +49,17 @@ import manage from "./manage.png";
 import admin from "./admin.png";
 import holopin from "./holopin.png";
 import h4b from "./h4b.jpeg";
+import ieee from "./ieee.png";
+import critiq from "./critiq.png";
 import aaro from "./aaro.jpeg";
 import hh from "./hh.jpeg";
-
+import gemma from "./gemma.jpeg";
+import llama from "./llama.jpeg";
+import linux from "./linux.jpeg";
+import ansible from "./ansible.png";
+import terra from "./terra.png";
+import gitact from "./gitact.png";
+import hl from "./hl.jpeg";
   chemcon,
   gdsc,
   open,
@@ -61,6 +69,13 @@ import hh from "./hh.jpeg";
   manage,
   admin
 export {
+  hl,
+  gitact,
+  terra,
+  ansible,
+  linux,
+  llama,
+  gemma,
   dp3,
   mydp,
   amisha,
@@ -89,6 +104,8 @@ export {
   reactjs,
   redux,
   tailwind,
+  ieee,
+  critiq,
   typescript,
   threejs,
   meta,

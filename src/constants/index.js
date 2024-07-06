@@ -5,6 +5,8 @@ import {
   web,
   javascript,
   typescript,
+  ieee,
+  critiq,
   html,
   css,
   reactjs,
@@ -23,6 +25,13 @@ import {
   jobit,
   tripguide,
   threejs,
+  hl,
+  gitact,
+  terra,
+  ansible,
+  linux,
+  llama,
+  gemma,
   iq,
   digitalOcean,
   solidity,
@@ -70,15 +79,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "GenAI Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "DevOps Engineer",
     icon: backend,
   },
   {
@@ -140,9 +149,51 @@ const technologies = [
     name: "Digital Ocean",
     icon: digitalOcean,
   },
+  {
+    name: "Terraform",
+    icon: terra,
+  },
+  {
+    name: "Ansible",
+    icon: ansible,
+  },
+  {
+    name: "Linux",
+    icon: linux,
+  },
+  {
+    name: "Git Actions",
+    icon: gitact,
+  },
+  {
+    name: "Hyperledger Fabric",
+    icon: hl,
+  },
+  {
+    name: "Gemma",
+    icon: gemma,
+  },
+  {
+    name: "Llama3",
+    icon: llama,
+  },
 ];
 
 const experiences = [
+  {
+    title: "SDE Intern",
+    company_name: "Iq Apex Labs",
+    icon: iq,
+    iconBg: "#383E56",
+    date: "May 2023 - June 2024",
+    points: [
+      "Developing and maintaining web applications using MERN stack and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Projects represented in nasscom and bengal chambers(reputed start-up pitching events).",
+    ],
+  },
   {
     title: "MERN stack Developer and Founder's Office Intern",
     company_name: "Iq Apex Labs",
@@ -275,20 +326,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Trackersy",
+    name: "Criti-Q",
     description:
-      "Web-based platform that allows users to create there income, expense and investment portfolio where stock data gets updated live at realtime data.",
+      "CritiQ is an decentralised web application for handling customer reviews and feedback for products and services. It incentivises the reviewer and prevents them from posting gibberish reviews to maintain authenticity. Companies are assisted with LLMs to improve their competition in market.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "AUTH0",
+        name: "LLM: Gemma:2b, Llama3",
         color: "green-text-gradient",
       },
       {
-        name: "nse-api",
+        name: "Solidity",
         color: "pink-text-gradient",
       },
       {
@@ -300,10 +351,10 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: trackersy,
-    link: "https://trackersyv1.onrender.com",
-    git:"https://github.com/7twik/trackersy_front"
-  },
+    image: critiq,
+    link: "https://criti-q.vercel.app/",
+    git:"https://github.com/7twik/CritiQ"
+  },  
   {
     name: "Go Local",
     description:
@@ -339,7 +390,63 @@ const projects = [
     git: "https://github.com/7twik/eVendor"
   },
   {
-    name: "Chingari clone",
+    name: "IEEE-HITK",
+    description:
+      "Made IEEE-HITK official website  .",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: ieee,
+    link: "https://ieeehitk.vercel.app/",
+    git: "https://github.com/7twik/ieee-hitk"
+  },
+  {
+    name: "Trackersy",
+    description:
+      "Web-based platform that allows users to create there income, expense and investment portfolio where stock data gets updated live at realtime data.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "AUTH0",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nse-api",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "express",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: trackersy,
+    link: "https://trackersyv1.onrender.com",
+    git:"https://github.com/7twik/trackersy_front"
+  },
+  {
+    name: "NFT Socio App",
     description:
       "Decentralized social media platform where users can post and like posts and also tip the creators. Now creators can list their videos as NFTS and NFT buyers will be able to get the profit share of the revenue the video generates.",
     tags: [
@@ -378,7 +485,7 @@ const projects = [
     ],
     image: chingari,
     link: "https://ornate-cucurucho-e3a525.netlify.app/",
-    git: "https://github.com/7twik/ChingariClone"
+    git: "https://github.com/7twik/NFT-Socio-App"
   },
   {
     name: "7's Drive",
