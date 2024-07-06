@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sattwik Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [eVendor](https://github.com/7twik/eVendor)
+- 🔭 I’m currently working on Supply-X
 
 - 🌱 I’m currently learning **Crypto Protocols, DevOps and Cloud Computing**
 
