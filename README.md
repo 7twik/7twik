@@ -8,13 +8,12 @@
 
 - 👨‍💻 All of my projects are available at https://7twik-git-main-7twik.vercel.app/
 
-- 💬 Ask me about **React, NodeJS, MongoDB, Typescript, Express.JS, Solidity**
+- 💬 Ask me about **React, Next, NodeJS, MongoDB, Typescript, Express.JS, Solidity, SQL**
 
 - 📫 How to reach me **07twik@gmail.com**
 
 - 📄 Know about my experiences https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view
 
-- ⚡ Fun fact **While debugging code, I've probably encountered at least one instance where the solution was so elusive that you dreamt about it, only to wake up with the 'Eureka!' moment that led to fixing the issue the next day. Who knew coding could be a 24/7 adventure, even in your dreams?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
