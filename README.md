@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Crypto Protocols, DevOps and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at https://7twik-git-main-7twik.vercel.app/
+- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://7twik-git-main-7twik.vercel.app/](https://7twik.vercel.app/)
 
 - 💬 Ask me about **React, Next, NodeJS, MongoDB, Typescript, Express.JS, Solidity, SQL**
 
