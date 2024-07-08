@@ -20,7 +20,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattwik-das-90aa75249/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa&pid=Api&P=0&h=180" alt="https://www.linkedin.com/in/sattwik-das-90aa75249/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/7twik/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.5GfDiEib0Yd4NCcXzmD4hQHaHa&pid=Api&P=0&h=180" alt="https://www.instagram.com/7twik/" height="30" width="40" /></a>
 </p>
-
+| Languages | Javascript,TypeScript(Beginner),C++,Python,Solidity,Cadence
+| ------------ | ----------- |
+|Frontend | React.js,Next.js,HTML,CSS,TailwindCSS
+|Backend | Node.js,Express.js,EJS,Flask, Kafka, WebSockets
+|Testing| Mocha, Chai
+|Databases| MongoDB, PostgreSQL, MySQL, Redis
+|Cloud | AWS, GCP
+|GenAI| Gemini, OpenAI, HuggingFace, Llama3, Gemma
+|Blockchain| Solidity, Cadence, Truffle, Ganache, Hardhat, ethers, web3.js
+<br/>
 ## Languages
 - **JavaScript**
 - **TypeScript** (Beginner)
