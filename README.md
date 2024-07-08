@@ -20,15 +20,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattwik-das-90aa75249/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa&pid=Api&P=0&h=180" alt="https://www.linkedin.com/in/sattwik-das-90aa75249/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/7twik/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.5GfDiEib0Yd4NCcXzmD4hQHaHa&pid=Api&P=0&h=180" alt="https://www.instagram.com/7twik/" height="30" width="40" /></a>
 </p>
-| Languages | Javascript,TypeScript(Beginner),C++,Python,Solidity,Cadence
+| Languages | <h1>Javascript,TypeScript(Beginner),C++,Python,Solidity,Cadence</h1>
 | ------------ | ----------- |
-|Frontend | React.js,Next.js,HTML,CSS,TailwindCSS
-|Backend | Node.js,Express.js,EJS,Flask, Kafka, WebSockets
-|Testing| Mocha, Chai
-|Databases| MongoDB, PostgreSQL, MySQL, Redis
-|Cloud | AWS, GCP
-|GenAI| Gemini, OpenAI, HuggingFace, Llama3, Gemma
-|Blockchain| Solidity, Cadence, Truffle, Ganache, Hardhat, ethers, web3.js
+|Frontend |  <h1>React.js,Next.js,HTML,CSS,TailwindCSS</h1>
+|Backend |  <h1>Node.js,Express.js,EJS,Flask, Kafka, WebSockets</h1>
+|Testing|  <h1>Mocha, Chai</h1>
+|Databases|  <h1>MongoDB, PostgreSQL, MySQL, Redis</h1>
+|Cloud | <h1> AWS, GCP</h1>
+|GenAI| <h1> Gemini, OpenAI, HuggingFace, Llama3, Gemma</h1>
+|Blockchain|  <h1>Solidity, Cadence, Truffle, Ganache, Hardhat, ethers, web3.js</h1>
 <br/>
 ## Languages
 - **JavaScript**
