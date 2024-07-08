@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on Supply-X
 
-- 🌱 I’m currently learning **Crypto Protocols, DevOps and Cloud Computing**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://7twik.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio.](https://7twik.vercel.app/)
 
 - 💬 Ask me about **React, Next, NodeJS, MongoDB, Typescript, Express.JS, Solidity, SQL**
 
 - 📫 How to reach me **07twik@gmail.com**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAFWOkrNC2o/gpfpjUJxxp82YkOyn_WcJQ/view
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wbD31X40B_TUJXjRD12pHCRaocv2KbER/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
