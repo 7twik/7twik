@@ -20,12 +20,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattwik-das-90aa75249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/7twik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/7twik/" height="30" width="40" /></a>
 </p>
-| Tech Stack | Skills |
+
+| Tech Stack | <h1>Skills</h1> 
 | ------------ | ----------- |
-| Languages | <h2>Javascript,TypeScript(Beginner),C++,Python,Solidity,Cadence</h2>
+| Languages | <h2>Javascript , TypeScript(Beginner) , C++ , Python , Solidity , Cadence</h2>
 |Frontend |  <h2>React.js , Next.js , HTML , CSS , TailwindCSS</h2>
 |Backend |  <h2>Node.js , Express.js , EJS , Flask , Kafka , WebSockets</h2>
-|DevOps & Testing|  <h2>Linux Scripting , Ansible , Terraform , Github Actions , Docker , JIRA , Mocha , Chai</h2>
+|DevOps|  <h2>Linux Scripting , Ansible , Terraform , Github Actions , Docker , JIRA</h2>
 |Databases|  <h2>MongoDB , PostgreSQL, MySQL, Redis</h2>
 |Cloud | <h2> AWS , GCP</h2>
 |GenAI| <h2> Gemini , OpenAI , HuggingFace , Llama3 , Gemma</h2>
