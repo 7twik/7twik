@@ -22,7 +22,6 @@
 </p>
 
 | Languages | <h2>Javascript,TypeScript(Beginner),C++,Python,Solidity,Cadence</h2>
-| ------------ | ----------- |
 |Frontend |  <h2>React.js , Next.js , HTML , CSS , TailwindCSS</h2>
 |Backend |  <h2>Node.js , Express.js , EJS , Flask , Kafka , WebSockets</h2>
 |DevOps & Testing|  <h2>Linux Scripting , Ansible , Terraform , Github Actions , Docker , JIRA , Mocha , Chai</h2>
