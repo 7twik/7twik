@@ -28,7 +28,6 @@
 |Backend |  <h2>Node.js , Express.js , EJS , Flask , Kafka , WebSockets</h2>
 |DevOps|  <h2>Linux Scripting , Ansible , Terraform , Github Actions , Docker , JIRA</h2>
 |Databases|  <h2>MongoDB , PostgreSQL, MySQL, Redis</h2>
-|Cloud | <h2> AWS , GCP</h2>
 |GenAI| <h2> Gemini , OpenAI , HuggingFace , Llama3 , Gemma</h2>
 |Blockchain|  <h2>Solidity , Cadence , Truffle , Ganache , Hardhat , ethers , web3.js</h2>
 <br/>
