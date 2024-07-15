@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [my portfolio.](https://7twik.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio.](https://sattwikdas.vercel.app)
 
 - 💬 Ask me about **React, Next, NodeJS, MongoDB, Typescript, Express.JS, Solidity, SQL**
 
