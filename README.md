@@ -1,6 +1,6 @@
-![logo](https://res.cloudinary.com/dflwersfp/image/upload/v1721141816/brfum8sgukav8ao0x34d.png)
+<a href="https://sattwikdas.vercel.app" target="blank">![logo](https://res.cloudinary.com/dflwersfp/image/upload/v1721141816/brfum8sgukav8ao0x34d.png)</a>
 <h1 align="center">Hi 👋, I'm Sattwik Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer, from India</h3>
 
 - 🔭 I’m currently working on Supply-X
 
