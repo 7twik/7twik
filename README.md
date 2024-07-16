@@ -1,4 +1,4 @@
-![logo](https://res.cloudinary.com/dcyfkgtgv/image/upload/v1696113041/Screenshot_2023-10-01_035850_mossmv.png)
+![logo](https://res.cloudinary.com/dflwersfp/image/upload/v1721141816/brfum8sgukav8ao0x34d.png)
 <h1 align="center">Hi 👋, I'm Sattwik Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
